@@ -19,14 +19,14 @@
   "author": "Joe Kuczek",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "4.0.3",
-    "electron-packager": "^13.1.1",
-    "electron-rebuild": "^1.8.4"
+    "electron": "^35.1.2",
+    "electron-packager": "^17.1.2",
+    "electron-rebuild": "^3.2.9"
   },
   "dependencies": {
     "jquery": "^3.4.0",
     "pouchdb": "^7.0.0",
     "pouchdb-find": "^7.0.0",
-    "vue": "^2.6.10"
+    "vue": "^3.5.13"
   }
 }
